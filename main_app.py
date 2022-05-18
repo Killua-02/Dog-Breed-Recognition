@@ -4,7 +4,6 @@ import numpy as np
 from PIL import Image
 import streamlit as st
 import hashlib
-import opencv-python-headless
 import streamlit.components.v1 as components
 from keras.models import load_model
 import wikipediaapi 
