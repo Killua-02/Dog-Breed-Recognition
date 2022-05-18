@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 from PIL import Image
 import streamlit as st
+import cv2
 import hashlib
 import streamlit.components.v1 as components
 from keras.models import load_model
